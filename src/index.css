@@ -1,0 +1,41 @@
+#image {
+  text-align: center;
+  margin: auto;
+  max-width: 33%;
+  display: block;
+}
+
+#img-div {
+  text-align: center;
+  margin: auto;
+}
+
+#tribute-info {
+  text-align: center;
+  margin: auto;
+  max-width: 75%;
+}
+
+#tribute-link {
+  text-align: center;
+  margin: auto;
+}
+
+#img-caption {
+  font-size: small;
+}
+
+body {
+  text-align: center;
+  background-color: #F7F7F7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  line-height: 1.5em;
+}
+
